@@ -23,9 +23,9 @@ After the compilation, in order to run the program, three terminals are needed. 
 the server and client applications respectively.
 
 Run these commands:
-	First terminal: socat -d -d pty,link=<file1> pty,link=<file2>
-	Second terminal: ./server <file1>
-	Third terminal: ./client <file2> 
+	First terminal: socat -d -d pty,link=<name1> pty,link=<name2>
+	Second terminal: ./server <name1>
+	Third terminal: ./client <name2> 
 
 Then go to the client terminal to send commands to the server from there. 
 
