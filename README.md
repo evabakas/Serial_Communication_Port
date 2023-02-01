@@ -47,4 +47,6 @@ In the client program, the actions available to the user are the following:
 https://gist.github.com/wdalmut/7480422
 https://stackoverflow.com/questions/6947413/how-to-open-read-and-write-from-serial-port-in-c
 
+3. For the text editor, I used sublime text with tab size 2 spaces. I hope this does not make any differences in other text editors.
+
 If you have any questions, feel free to ask me.  
