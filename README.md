@@ -45,6 +45,6 @@ In the client program, the actions available to the user are the following:
 2. Since I hadn't used tty-like terminals and the termios.h library, in order to establish the communication, I got help from these two links:
 
 https://gist.github.com/wdalmut/7480422
-https://gist.github.com/wdalmut/7480422
+https://stackoverflow.com/questions/6947413/how-to-open-read-and-write-from-serial-port-in-c
 
 If you have any questions, feel free to ask me.  
